@@ -24,7 +24,7 @@
 
 - 👨🏽‍💻 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
 - 🌱 I’m currently learning Tailwindcss; 
-- 💬 Ask me about anything [here](https://github.com/VirtualHorror/VirtualHorror/issues), I am happy to help;
+- 💬 Ask me about anything [here](https://github.com/VirtualHorror/VirtualHorror/discussions), I am happy to help;
 
 ## ⚡ Technologies
 
