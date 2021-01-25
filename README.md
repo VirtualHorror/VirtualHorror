@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<a href="mailto: VirtualHorror#2841">
+<a href="https://discord.com/users/638766162674581537">
   <img align="left" alt="VirtualHorror's Discord Tag" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/Virtual_Horror/">
