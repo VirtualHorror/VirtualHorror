@@ -1,21 +1,21 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <a href="https://discord.com/users/638766162674581537">
-  <img align="left" alt="VirtualHorror's Discord Tag" width="22px" src="https://simpleicons.org/icons/discord.svg" />
+  <img align="left" alt="VirtualHorror's Discord Tag" width="22px" src="assets/discord.png" />
 </a>
 <a href="https://twitter.com/Virtual_Horror/">
-  <img align="left" alt="VirtualHorror | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />
+  <img align="left" alt="VirtualHorror | Twitter" width="22px" src="assets/twitter.png" />
 </a>
 <a href="https://www.twitch.tv/virtual_horrorv/">
-  <img align="left" alt="VirtualHorror's Twitch" width="22px" src="https://simpleicons.org/icons/twitch.svg" />
+  <img align="left" alt="VirtualHorror's Twitch" width="22px" src="assets/twitch.png" />
 </a>
 <a href="https://open.spotify.com/user/awj0iy1ly2sbsjfjcds77t6wa/">
-  <img align="left" alt="VirtualHorror's Spotify" width="22px" src="https://simpleicons.org/icons/spotify.svg" />
+  <img align="left" alt="VirtualHorror's Spotify" width="22px" src="assets/spotify.png" />
 </a>
 <a href="https://www.reddit.com/user/VirtualHorror/">
-  <img align="left" alt="VirtualHorror's Reddit" width="22px" src="https://simpleicons.org/icons/reddit.svg" />
+  <img align="left" alt="VirtualHorror's Reddit" width="22px" src="assets/reddit.png" />
 </a>
 <a href="https://github.com/VirtualHorror/">
-  <img align="left" alt="VirtualHorror's Github" width="22px" src="https://simpleicons.org/icons/github.svg" />
+  <img align="left" alt="VirtualHorror's Github" width="22px" src="assets/github.png" />
 </a>
 
 <br />
