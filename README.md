@@ -18,7 +18,7 @@
   <img align="left" alt="VirtualHorror's Github" width="22px" src="assets/github.png" />
 </a>
 
-<br />
+<br>
 
 ## <p>Welcome to my page! </br> I'm [VirtualHorror](https://virtualhorror.github.io/), a passionate self-taught Full Stack Web Developer 🚀, a highly resourceful computer programmer and well-rounded IT professional with over four years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
 
@@ -49,6 +49,6 @@
 *NOTE: Top languages does not indicate my skill level or something like that, it is a Github metric of which languages I have the most code on Github*
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=VirtualHorror&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirtualHorror&hide=TeX&layout=compact)
+<br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirtualHorror&hide=TeX&layout=compact)
 <br> ![Discord Status](https://discord.c99.nl/widget/theme-3/638766162674581537.png)
 <br> ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=VirtualHorror.VirtualHorror)
