@@ -50,5 +50,5 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=VirtualHorror&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirtualHorror&hide=TeX&layout=compact)
-
+![Discord Status](https://discord.c99.nl/widget/theme-3/638766162674581537.png)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=VirtualHorror.VirtualHorror)
