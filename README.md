@@ -20,7 +20,7 @@
 
 <br>
 
-## <p>Welcome to my page! </br> I'm [VirtualHorror](https://virtualhorror.github.io/), a passionate self-taught Full Stack Web Developer 🚀, a highly resourceful computer programmer and well-rounded IT professional with over four years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+## <p>Welcome to my page! </br> I'm [VirtualHorror](https://virtualhorror.github.io/), a passionate self-taught Full Stack Developer 🚀, a highly resourceful computer programmer and well-rounded IT professional with over four years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
 
 - 👨🏽‍💻 I’m currently working on [Proton Servers Host](https://protonservershost.com)
 - 🌱 I’m currently learning Terraform; 
