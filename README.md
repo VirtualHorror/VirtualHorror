@@ -48,7 +48,7 @@
 
 *NOTE: Top languages does not indicate my skill level or something like that, it is a GitHub metric of which languages I have the most code on GitHub public repositories*
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=VirtualHorror&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats-sage-six-40.vercel.app/api?username=VirtualHorror&count_private=true&show_icons=true&include_all_commits=true)
 <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirtualHorror&hide=TeX&layout=compact)
 <br> ![Discord Status](https://discord.c99.nl/widget/theme-3/638766162674581537.png)
 <br> ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=VirtualHorror.VirtualHorror)
